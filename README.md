@@ -1,4 +1,12 @@
-# Simulating-Unruh-temperature
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Constantine-Quantum-Tech/tqsim/refs/heads/main/images/cqtech_logo_blue.png">
+  <img alt="CQTech's Logo" align="right" height="70" src="https://raw.githubusercontent.com/Constantine-Quantum-Tech/tqsim/refs/heads/main/images/cqtech_logo_blue.png">
+</picture>
+
+
+
+# Simulating The Unruh Temperature
+
 This repository contain the jupyter notebook we used to genrate the results presented in the Quantum Simulation of the Unruh Temperature via the Thermal Properties of
 Virtually Evolving Bose-Einstein Condensate paper. 
 ## Installation
